@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">T3</string>
+    <string name="title_app">Bienvenido</string>
+    <string name="btn_text">Entrar</string>
+</resources>
